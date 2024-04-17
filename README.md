@@ -1,6 +1,6 @@
 # Read me
 
-These codes were written for a paper 'Companion Diagnosis of Depressio: Detection and Response Prediction using EVs-SERS-XAI'.
+These codes were written for a paper 'Companion Diagnosis of Depression: Detection and Response Prediction using EVs-SERS-XAI'.
 * Unauthorized use of this code for other purpose is prohibited.
 
 This repository contains Python codes to show example of depression detection and treatment response prediction using SERS spectra of EV from plasma.
